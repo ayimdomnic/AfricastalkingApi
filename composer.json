@@ -1,0 +1,12 @@
+{
+    "name": "ayimdomnic/africastalking-api",
+    "description": "this is my laravel bridge for Africastalking Api",
+    "type": "package",
+    "authors": [
+        {
+            "name": "Status CTO",
+            "email": "ayimdomnic@statuscreative.com"
+        }
+    ],
+    "require": {}
+}
